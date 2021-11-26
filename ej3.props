@@ -1,0 +1,6 @@
+#Fichero de configuración de la aplicación X
+#Fri Nov 26 16:45:37 CET 2021
+port=5858
+standalone=yes
+lanzamiento=26/11/2021
+version=1.2.4 beta
