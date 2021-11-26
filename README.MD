@@ -1,4 +1,5 @@
-#TEMA 1 y 2
+# TEMA 1 y 2
+
 Resolución de los ejercicios de los temas 1 y 2 de acceso a datos. Puntos a tener en cuenta:
 - Se trata de un proyecto Maven, cuya clase de entrada es main.Exec.
 - Se incluye el fichero EjsTema1y2.jar, el cual se puede ejecutar con el comando `java -jar EjsTema1y2.jar` y permite comprobar todos los ejs.
